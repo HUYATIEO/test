@@ -23,6 +23,7 @@ project:
     - "nmi_reorder.v"
     - "ntt_fsm_rom.v"
     - "single_butterfly.v"
+    - "ntt_top.v"
     
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
