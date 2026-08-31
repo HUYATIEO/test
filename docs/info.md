@@ -13,7 +13,7 @@ NTT acclerator for ML KEM 512
 
 ## How to test
 
-Explain how to use your project
+cocotb
 
 ## External hardware
 
